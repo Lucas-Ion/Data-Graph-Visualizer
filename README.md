@@ -1,9 +1,7 @@
-# ABN AMRO Junior Developer Coding Challenge
-# [Access the deployed site by clicking here 🛜](https://abn-amro-coding-frontend.onrender.com/)
+# Graph Visualizer
 
 ## Project Overview ✨ 
-This submission is my attempt to tackle the ABN AMRO Junior Developer Coding Challenge with a
-graph visualization application. 
+A Neo4j graph database visualizer
 
 ## Built With 🛠️
 
